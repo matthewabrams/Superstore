@@ -30,6 +30,9 @@ The forecasting model was used to:
 - Monthly variance analysis identified fluctuations likely influenced by seasonal demand patterns
 - Rolling average forecasts indicated relatively stable future revenue performance
 
+- <img width="1404" height="509" alt="image" src="https://github.com/user-attachments/assets/8520df55-a5a6-4ed9-b97f-49d4e1da9320" />
+
+
 ## Tools Used
 
 - Excel
