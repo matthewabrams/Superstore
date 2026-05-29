@@ -23,6 +23,9 @@ The forecasting model was used to:
 - Support future planning assumptions
 - Compare historical versus projected performance
 
+<img width="1201" height="493" alt="image" src="https://github.com/user-attachments/assets/5ea4653d-51ab-4f33-9306-1425df7cd96d" />
+
+
 ## Key Findings
 - Total revenue exceeded planned targets by approximately 0.49%
 - Furniture and Office Supplies outperformed revenue expectations
@@ -30,7 +33,7 @@ The forecasting model was used to:
 - Monthly variance analysis identified fluctuations likely influenced by seasonal demand patterns
 - Rolling average forecasts indicated relatively stable future revenue performance
 
-- <img width="1404" height="509" alt="image" src="https://github.com/user-attachments/assets/8520df55-a5a6-4ed9-b97f-49d4e1da9320" />
+ <img width="1404" height="509" alt="image" src="https://github.com/user-attachments/assets/8520df55-a5a6-4ed9-b97f-49d4e1da9320" />
 
 
 ## Tools Used
