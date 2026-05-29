@@ -5,6 +5,10 @@ Financial planning and forecasting analysis project using Excel to evaluate plan
 
 This project analyzes planned versus actual business performance using revenue variance analysis, monthly trend analysis, and forecasting techniques. The analysis was developed using Excel dashboards, KPI reporting, and forecasting models to evaluate operational performance and support business planning decisions.
 
+## Business Problem
+
+The objective of this analysis was to evaluate whether actual business performance aligned with forecast expectations and identify revenue trends across product categories and monthly periods.
+
 ## Forecasting Methodology
 
 A 3-month moving average forecasting model was developed to project future revenue trends while smoothing short-term fluctuations in monthly performance.
@@ -25,3 +29,12 @@ The forecasting model was used to:
 - Technology underperformed forecast assumptions despite generating the highest overall revenue
 - Monthly variance analysis identified fluctuations likely influenced by seasonal demand patterns
 - Rolling average forecasts indicated relatively stable future revenue performance
+
+## Tools Used
+
+- Excel
+- Pivot Tables
+- Forecasting Models
+- KPI Dashboards
+- Variance Analysis
+- Data Visualization
